@@ -1,4 +1,6 @@
-<a href="http://ucupio.dev" target="_blank"><img src="./asset/giphy%20by%20%40dommespace.gif" /></a>
+<p align="center">
+  <a href="http://ucupio.dev" target="_blank"><img src="./asset/giphy%20by%20%40dommespace.gif" /></a>
+</p>
 
 # Hello my name is Maulana Yusuf Azmi
 
