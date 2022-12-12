@@ -1,6 +1,6 @@
-[Hero Image](./asset/giphy%20by%20%40dommespace.gif)
+<a href="http://ucupio.dev" target="_blank"><img src="./asset/giphy%20by%20%40dommespace.gif" /></a>
 
-# Maulana Yusuf Azmi a.k.a Ucupio Schiffer
+# Hello my name is Maulana Yusuf Azmi
 
 I am stupidly fullstack developer. but im happy with it. btw i am indonenesian. sorry for bad english
 
