@@ -4,11 +4,11 @@
 
 # Hello my name is Maulana Yusuf Azmi
 
-I am stupidly fullstack developer. but im happy with it. btw i am indonenesian. sorry for bad english
+I am Junior Fullsatck Javascript Developer. i have dream to make a software than can be usefull for man people. so now i learn more and more about software development. for now, i work in Wide Technologies Indonesia as Sofware Developer, before i can make dreame come true i must look for as much as expreience in real life practice. 
 
 # Contact me
 
-My specialication is making funny app :). if you wish to contact stupid developer like me, dont shy to contact me with [this link](http://ucupio.dev). this developer not see the money. just looking for little bit buck to buying rice :D.
+contact me at [this link](http://ucupio.dev) or email maulanayusufazmi@gmail.com
 
 # Development tools
 
